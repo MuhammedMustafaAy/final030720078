@@ -1,0 +1,4 @@
+IP: 91.225.104.133
+Database: evspot
+User: evspot
+Password: VF78O3VDk0Bm
